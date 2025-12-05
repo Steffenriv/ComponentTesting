@@ -6,9 +6,9 @@ A simple test project for implementing and testing out different components
 ## Getting started
 
 - Installation
-'''bash
+```bash
 bun install
-'''
+```
 
 - Development
 ```bash
