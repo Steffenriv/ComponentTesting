@@ -11,16 +11,16 @@ bun install
 '''
 
 - Development
-'''bash
+```bash
 bun dev 
-'''
+```
 
 - Build for production
-'''bash
+```bash
 bun run build
-'''
+```
 
 - Start production server
-'''bash
+```bash
 bun run start
-'''
+```
